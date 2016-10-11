@@ -1,2 +1,2 @@
-compression errorhandler loopback@2.28.0 loopback-boot loopback-datasource-juggler@2.44.0 serve-favicon loopback-connector-mongodb@1.15.2
-async i18n deepcopy moment loopback-component-storage cors loopback-sdk-angular-cli@2.0.1 strongloop@6.0.1 rmdir mongodb jimp pdfkit csv
+compression errorhandler serve-favicon async i18n deepcopy moment cors rmdir mongodb jimp pdfkit csv
+strongloop loopback@2.29.1 loopback-boot loopback-datasource-juggler loopback-connector-mongodb loopback-component-storage
