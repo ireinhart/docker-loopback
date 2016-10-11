@@ -1,2 +1,2 @@
 compression errorhandler serve-favicon async i18n deepcopy moment cors rmdir mongodb jimp pdfkit csv
-strongloop loopback@2.29.1 loopback-boot loopback-datasource-juggler loopback-connector-mongodb loopback-component-storage
+strongloop loopback@2.29.1 loopback-boot loopback-datasource-juggler@2.44.0 loopback-connector-mongodb loopback-component-storage
